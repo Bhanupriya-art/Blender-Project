@@ -24,4 +24,7 @@ Some images of the projects :-
 <img width="1919" height="1079" alt="Screenshot 2025-08-07 013454" src="https://github.com/user-attachments/assets/8e8e8c8b-f5d9-4723-b69d-8eb9e753c095" />
 <img width="515" height="505" alt="Screenshot 2025-08-07 011158" src="https://github.com/user-attachments/assets/4baf075a-cb78-4eeb-be16-d4905503a77f" />
 
+🤝 Let's Connect!
+
+If you're also learning Blender or want to collaborate, feel free to connect!
 ---
